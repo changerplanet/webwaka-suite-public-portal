@@ -1,0 +1,14 @@
+{
+  "moduleId": "webwaka-suite-public-portal",
+  "name": "Public Portal",
+  "version": "0.1.0",
+  "class": "suite",
+  "description": "Public-facing entry point for WebWaka platform",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "author": "ChangerPlanet",
+    "license": "Proprietary",
+    "repository": "https://github.com/changerplanet/webwaka-suite-public-portal"
+  }
+}
